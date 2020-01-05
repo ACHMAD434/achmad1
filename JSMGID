@@ -1,0 +1,14 @@
+<!-- Composite Start -->
+<div id="M516044ScriptRootC776174">
+        <div id="M516044PreloadC776174">
+        Loading...    </div>
+    </div>
+<script>
+        (function () {
+        var script = document.createElement('script');
+        script.src = "//jsc.mgid.com/r/a/ramadhan2020.blogspot.com.776174.js?t=" +  ((d = new Date()) ? '' + d.getUTCFullYear() + d.getUTCMonth() + d.getUTCDate() + d.getUTCHours() : '');
+        script.async = true;
+        document.body.appendChild(script);
+    })();
+</script>
+<!-- Composite End -->
